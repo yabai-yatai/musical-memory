@@ -1,1 +1,1 @@
-![](https://komarev.com/ghpvc/?username=yabai-yatai&label=HEAVEN+ASCENSIONS)
+![[![Image of https://github.com/yabai-yatai/repositories-views-counter](https://github.com/yabai-yatai/repositories-views-counter/blob/master/svg/profile/badge.svg)][![](https://komarev.com/ghpvc/?username=yabai-yatai&style=flat)][![](https://github.com/yabai-yatai/repositories-views-counter)](https://komarev.com/ghpvc/?username=yabai-yatai&label=heaven+ascensions)](https://komarev.com/ghpvc/?username=yabai-yatai&label=heaven+ascensions&color=dc143c)
