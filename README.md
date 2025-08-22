@@ -1,1 +1,1 @@
-# ![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=yabai-yatai)
+![](https://komarev.com/ghpvc/?username=yabai-yatai&label=PROFILE+VIEWS)
