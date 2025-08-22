@@ -1,1 +1,1 @@
-![](https://komarev.com/ghpvc/?username=yabai-yatai&label=PROFILE+VIEWS)
+![](https://komarev.com/ghpvc/?username=yabai-yatai&label=HEAVEN+ASCENSIONS)
